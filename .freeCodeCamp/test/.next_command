@@ -107,3 +107,5 @@ chmod +x bike-shop.sh
 ./bike-shop.sh
 __vsc_prompt_cmd_original
 psql --username=freecodecamp --dbname=postgres
+__vsc_prompt_cmd_original
+./bike-shop.sh
